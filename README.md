@@ -28,5 +28,5 @@ Thanks
 
 Changelog
 -----------------------------
-* <a href="https://github.com/alistapart/ala-eecms/commit/b1e14906f06575f0e252053d2616a16e2a26db09">update pi.textile.php</a>
+* <a href="https://github.com/linssen/textile.ee_addon/commit/09be0df8178f3cfd2531f953d643516b45d6e47a">update pi.textile.php</a>
 
