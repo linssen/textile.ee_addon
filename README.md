@@ -24,3 +24,9 @@ Thanks
 
 * Rick Ellis for [Textile EE 1.x version](http://expressionengine.com/downloads/details/textile/)
 * [F. Albrecht](http://www.ideenhafen.de/) for porting it to EE 2.x
+* 
+
+Changelog
+-----------------------------
+* <a href="https://github.com/linssen/textile.ee_addon/commit/09be0df8178f3cfd2531f953d643516b45d6e47a">update pi.textile.php</a>
+
